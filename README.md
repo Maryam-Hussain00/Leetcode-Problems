@@ -27,9 +27,3 @@ Leetcode-Problems/
 ## 📈 Progress
 This repository will continue to grow as I solve more LeetCode problems and explore different DSA topics.
 
-## 📌 Approach
-For each problem, I aim to understand the logic, develop a solution independently, and analyze its time and space complexity.
-
----
-
-*One problem at a time, one step closer to better problem-solving.*
