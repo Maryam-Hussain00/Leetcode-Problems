@@ -16,7 +16,7 @@ def roman(s):
     length = len(s)
     for i in range(length):
         if i < length-1:
-            if( key[s[i]]< key[s[i+1]]):
+            if( key[s[i]]< key[s[i+1]] ):
                 result -= key[s[i]]
             else:
                 result += key[s[i]]
